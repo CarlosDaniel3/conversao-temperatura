@@ -18,4 +18,4 @@ Rode um container da imagem gerada através do Dockerfile
 docker container run -d -p 8080:8080 carlosdaniel2/conversao-temperatura:v1
 ```
 
-Para testar a aplicação, basta ir no seu navegador e digitar localhost:8080 na barra de endereço
+Para testar a aplicação, basta ir no seu navegador e digitar "localhost:8080" na barra de endereço
